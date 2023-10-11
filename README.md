@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to my GitHub! Take a look around.
 <!--
 **H3R01A/H3R01A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
