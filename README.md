@@ -1,4 +1,4 @@
-### Hi there 👋, I am Aaron Allen
+  ### Hi there 👋, I am Aaron Allen
 
 Welcome to my GitHub! Take a look around.
 <!--
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://github.com/H3R01A/H3R01A/assets/10767875/55c2578a-83a5-4f00-9529-9553d262986c" width="100" alt="TypeScript">
 -->
 
 - 🔭 I’m currently working on: Codename Hermes
@@ -22,5 +24,7 @@ Here are some ideas to get you started:
 
 Strong:
 
-<a href=”https://www.twitchcon.com”><img src="https://github.com/H3R01A/H3R01A/assets/10767875/55c2578a-83a5-4f00-9529-9553d262986c" width="100" alt="TypeScript"></a>
+<a href=”https://www.twitchcon.com”></a>
+
+
 
