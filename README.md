@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Python, Go
 - 💬 Ask me about: JavaScript (ES6+),React, Node.js, Express.js, HTML5, Sass + CSS, Git/Github flow, SQL - PostgreSQL, NoSQL - MongoDB
 
-![image]([https://github.com/H3R01A/H3R01A/assets/10767875/6dd0efe2-34af-4ff2-a3a6-92b9b8b0b258](https://www.typescriptlang.org/)https://www.typescriptlang.org/)
+![image](https://www.typescriptlang.org/)
 
 
