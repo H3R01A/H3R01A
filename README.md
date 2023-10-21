@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Aaron Allen
 
 Welcome to my GitHub! Take a look around.
 <!--
@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on: Codename Hermes
+- 🌱 I’m currently learning: Python, Go
+- 💬 Ask me about: JavaScript (ES6+),React, Node.js, Express.js, HTML5, Sass + CSS, Git/Github flow, SQL - PostgreSQL, NoSQL - MongoDB
+
+https://www.typescriptlang.org/
