@@ -1,6 +1,6 @@
   ### Hi there 👋, I am Aaron Allen
 
-Welcome to my GitHub! Take a look around.
+I am a passionate Software Engineer experienced in building full-stack applications with React, Node, Docker and other various modern technologies. I am also the Co-creator of Codename Hermes, an open source library aiming to abstract away and standardize the initial setup and implementation of connecting with message brokers. 
 <!--
 **H3R01A/H3R01A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 💬 Ask me about:
 - ⚡ Fun fact: ...
 
 <img src="https://github.com/H3R01A/H3R01A/assets/10767875/55c2578a-83a5-4f00-9529-9553d262986c" width="100" alt="TypeScript">
@@ -20,11 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Codename Hermes
 - 🌱 I’m currently learning: Python, Go
-- 💬 Ask me about: JavaScript (ES6+),React, Node.js, Express.js, HTML5, Sass + CSS, Git/Github flow, SQL - PostgreSQL, NoSQL - MongoDB
-
-Strong:
-
-<a href=”https://www.twitchcon.com”></a>
 
 
-
+Strong:  JavaScript (ES6+),React, Node.js, Express.js, HTML5, Sass + CSS, Git/Github flow, SQL - PostgreSQL, NoSQL - MongoDB
+Experienced: TypeScript, Docker, Redux, webpack, Next.js, Angular, Spring Boot (Java), AWS, CI/CD, Jest
