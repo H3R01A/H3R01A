@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: Codename Hermes
 - 🌱 I’m currently learning: Python, Go
 
+### Tech I work with:
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./JavaScript.png" width="100"></a>
 
-Strong:  JavaScript (ES6+),React, Node.js, Express.js, HTML5, Sass + CSS, Git/Github flow, SQL - PostgreSQL, NoSQL - MongoDB
-Experienced: TypeScript, Docker, Redux, webpack, Next.js, Angular, Spring Boot (Java), AWS, CI/CD, Jest
