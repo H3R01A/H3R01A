@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Python, Go
 - 💬 Ask me about: JavaScript (ES6+),React, Node.js, Express.js, HTML5, Sass + CSS, Git/Github flow, SQL - PostgreSQL, NoSQL - MongoDB
 
-![image](https://www.typescriptlang.org/)
-
-
+<img src="[markdownmonstericon.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F1200px-Typescript_logo_2020.svg.png&tbnid=hKrr-p-l9D8FyM&vet=12ahUKEwjKxKLx5YeCAxXmNkQIHafIBMEQMygAegQIARB1..i&imgrefurl=https%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FTypeScript&docid=Y8xklIYlMyazWM&w=1200&h=1200&q=typescript&ved=2ahUKEwjKxKLx5YeCAxXmNkQIHafIBMEQMygAegQIARB1)https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F1200px-Typescript_logo_2020.svg.png&tbnid=hKrr-p-l9D8FyM&vet=12ahUKEwjKxKLx5YeCAxXmNkQIHafIBMEQMygAegQIARB1..i&imgrefurl=https%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FTypeScript&docid=Y8xklIYlMyazWM&w=1200&h=1200&q=typescript&ved=2ahUKEwjKxKLx5YeCAxXmNkQIHafIBMEQMygAegQIARB1" alt="TypeScript Logo" style="float: left; margin-right: 10px;" />
