@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 Strong:
 
-  <img src="https://github.com/H3R01A/H3R01A/assets/10767875/55c2578a-83a5-4f00-9529-9553d262986c" width="100" alt="TypeScript" href="https://www.twitchcon.com/en/las-vegas-2023/event-activities/">
+<a href=”https://www.twitchcon.com”><img src="https://github.com/H3R01A/H3R01A/assets/10767875/55c2578a-83a5-4f00-9529-9553d262986c" width="100" alt="TypeScript"></a>
+
