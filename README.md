@@ -24,5 +24,15 @@ Here are some ideas to get you started:
 
 ### Tech I work with:
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./JavaScript.png" width="100"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./JavaScript.png" width="75"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./TypeScript.png" width="75"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./html.png" width="75"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./css.png" width="75"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./sass.png" width="75"></a>
+<a href="https://react.dev/"><img src="./react.png" width="80"></a>
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./nodejs.png" width="125"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./expressjs.png" width="125"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./postgresql.png" width="135"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./mongodb.png" width="250"></a>
 
