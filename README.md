@@ -22,17 +22,18 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: Codename Hermes
 - 🌱 I’m currently learning: Python, Go
 
+
 ### Tech I work with:
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./JavaScript.png" width="75"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./TypeScript.png" width="75"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./html.png" width="75"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./css.png" width="75"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./sass.png" width="75"></a>
+<a href="https://www.typescriptlang.org/"><img src="./TypeScript.png" width="75"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./html.png" width="75"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./css.png" width="75"></a>
+<a href="https://sass-lang.com/"><img src="./sass.png" width="75"></a>
 <a href="https://react.dev/"><img src="./react.png" width="80"></a>
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./nodejs.png" width="125"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./expressjs.png" width="125"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./postgresql.png" width="135"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./mongodb.png" width="250"></a>
+<a href="https://nodejs.org/en"><img src="./nodejs.png" width="125"></a>
+<a href="https://expressjs.com/"><img src="./expressjs.png" width="125"></a>
+<a href="https://www.postgresql.org/"><img src="./postgresql.png" width="135"></a>
+<a href="https://www.mongodb.com/"><img src="./mongodb.png" width="250"></a>
 
