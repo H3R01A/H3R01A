@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on: Codename Hermes
-- 🌱 I’m currently learning: Python, Go
 
 
 ### Tech I work with:
